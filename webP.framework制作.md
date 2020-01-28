@@ -60,3 +60,8 @@ pod 'YYImage/WebP`
 ```objc
 sh iosbuild.sh
 ```
+执行完成后你会发现文件夹中多了下面几个文件
+
+![](https://tva1.sinaimg.cn/large/006tNbRwgy1gbcabyxc1dj30by04cdgg.jpg)
+
+这就是我们需要继承的webP相关的framework
