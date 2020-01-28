@@ -47,3 +47,8 @@ pod 'YYImage/WebP`
 
 首先我们可以登录谷歌的[WebP官网](https://developers.google.com/speed/webp/docs/using)
  
+![](https://tva1.sinaimg.cn/large/006tNbRwgy1gbca27ik2fj319s0tyqha.jpg)
+
+通过上面的图我们可以看到WebP的最新版本已经到了 1.1.0(SDWebImage还是0.5.1)
+
+我们直接去下载的话
