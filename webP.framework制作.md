@@ -51,4 +51,8 @@ pod 'YYImage/WebP`
 
 通过上面的图我们可以看到WebP的最新版本已经到了 1.1.0(SDWebImage还是0.5.1)
 
-我们直接去下载的话
+我们直接去下载并解压
+
+![](https://tva1.sinaimg.cn/large/006tNbRwgy1gbca48vq3yj30mk0za7dx.jpg)
+
+在文件夹中我们可以看到一个`iosbuild.sh`文件,我们在终端执行这个shell脚本
