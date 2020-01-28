@@ -39,4 +39,11 @@ pod 'YYWebImage'
 pod 'YYImage/WebP`
 ```
 
-一般情况下我们直接使用上面两种方法就可以
+一般情况下我们直接使用上面两种方法就可以解决webP的集成使用,但是还存在两个问题：
+* 1、webP库的版本控制依赖三方
+* 2、webP库为谷歌的库直接pod集成需要翻墙 成本较高
+
+### 自己制作WebP
+
+首先我们可以登录谷歌的[WebP官网](https://developers.google.com/speed/webp/docs/using)
+ 
