@@ -30,5 +30,12 @@ pod 'SDWebImage/WebP'
 ```
 `注意`： 因为libwebp(0.5.1)是谷歌的库，下载需要翻墙。SD中webP的库默认是0.5.1版本的
 
+#### YYWebImage
 
+导入方式与SD类似直接通过pod的方式导入
+
+```objc
+pod 'YYWebImage'
+pod 'YYImage/WebP`
+```
 
