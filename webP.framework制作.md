@@ -6,5 +6,7 @@ WebP 的优势体现在它具有更优的图像数据压缩算法，能带来更
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1gbc6ha4mv7j31p80dkgwp.jpg)
 
+![](https://tva1.sinaimg.cn/large/006tNbRwly1gbc6hzbo21j30nw0oydkv.jpg)
 
+从上面的图中我们看到
 
