@@ -65,3 +65,7 @@ sh iosbuild.sh
 ![](https://tva1.sinaimg.cn/large/006tNbRwgy1gbcabyxc1dj30by04cdgg.jpg)
 
 这就是我们需要继承的webP相关的framework
+
+#### 多个framework合成
+
+我们在查看YYWebImage的时候,YY实际上重写了
