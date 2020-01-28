@@ -21,6 +21,8 @@ WebP 的优势体现在它具有更优的图像数据压缩算法，能带来更
 在github的简介上我们看到
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1gbc6mz3lpxj31em0fqdkj.jpg)
 
-SD实际上支持多种图片格式的扩展
+SD实际上支持多种图片格式的扩展!
+
+如果项目中我们使用了SD那么我们想增加
 
 
