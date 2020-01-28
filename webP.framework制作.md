@@ -39,3 +39,4 @@ pod 'YYWebImage'
 pod 'YYImage/WebP`
 ```
 
+一般情况下我们直接使用上面两种方法就可以
