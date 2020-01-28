@@ -56,3 +56,7 @@ pod 'YYImage/WebP`
 ![](https://tva1.sinaimg.cn/large/006tNbRwgy1gbca48vq3yj30mk0za7dx.jpg)
 
 在文件夹中我们可以看到一个`iosbuild.sh`文件,我们在终端执行这个shell脚本
+
+```objc
+sh iosbuild.sh
+```
